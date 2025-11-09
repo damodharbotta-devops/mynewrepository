@@ -29,3 +29,5 @@ public class Main {
 
 we are adding some more data
     to learn about pull and fetch
+
+    checking the fetch command.
